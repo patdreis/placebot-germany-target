@@ -1,5 +1,5 @@
 @echo off
 cls
-:start
-npm run start
-goto start
+:bleib_offen
+call npm start
+goto bleib_offen
